@@ -5,7 +5,8 @@ Real-time **RGB**, **HSV**, and **HSL** color control for WS2812B LED strips —
 
 Perfect for embedded projects where floating-point is unavailable or inefficient.
 
-https://github.com/user-attachments/assets/79e9906e-3523-4f61-935b-c97e8b804128
+![Demo: HSV vs HSL comparison](assets/hsl-hsv-comparison.gif)
+> _Screenshot: Left = HSV (vibrant), Right = HSL (pastel)_
 
 > 💡 **Why HSL?** HSV gives vibrant colors, while HSL produces soft pastels — ideal for ambient lighting, mood indicators, and artistic displays.
 
